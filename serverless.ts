@@ -33,7 +33,7 @@ const serverlessConfiguration: Serverless = {
         {
           http: {
             method: 'post',
-            path: 'hello',
+            path: 'engine-test',
           }
         }
       ]
